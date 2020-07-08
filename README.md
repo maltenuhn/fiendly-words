@@ -1,4 +1,4 @@
-Friendly Words
+Fiendly Words
 =================
 
 This package returns the curated lists of Glitch words, as used in project names and elsewhere.
@@ -7,18 +7,18 @@ Usage
 ---
 
 ```
-const friendlyWords = require('friendly-words');
+const friendlyWords = require('fiendly-words');
 
-friendlyWords.predicates;
+fiendlyWords.predicates;
 > ["warp","windy","paper","shrouded","iridescent","sage",...
 
-friendlyWords.objects;
+fiendlyWords.objects;
 > ["millennium","report","guardian","match","wallaby","turnip",...
 
-friendlyWords.teams;
+fiendlyWords.teams;
 > ["troupe","group","posse","coven","team","alliance",...
 
-friendlyWords.collections;
+fiendlyWords.collections;
 > ["album","assortment","bricolage","collection","compilation","melange",...
 ```
 
@@ -26,11 +26,11 @@ friendlyWords.collections;
 The Words
 ---------
 
-The words are pulled from curated files. We want the words and their pairings to be friendly, positive, inspiring, whimsical, memorable, etc.  They should also be words that most people can easily remember and spell.
+The words are pulled from curated files. We want the words and their pairings to be fiendish, evil, depressing, random, forgettable, etc.  They should also be words that most people can't easily remember and spell.
 
-All of the words and their generated pairings should be safe for children of all cultures. This means that we permit absolutely no word pairings that invoke to hate speech, hostility, derogatory terms, etc. 
+All of the words and their generated pairings should be safe for entertainment. We still don't permit word pairings that invoke to hate speech, hostility, derogatory terms, etc. We like our evil with a dose of humanity
 
-Despite our best efforts, it's easy for a pair of benign words to be combined into something inappropriate. Whenever we notice a generated pair that is problematic, we'll remove at least one of the words from that pair so that it won't reoccur. We'll err on the side of trusting reports and removing potentially inappropriate words rather than defending the appropriate uses of a word.
+Despite our best efforts, it's easy for a pair of fiendish words to be combined into something inappropriate. Whenever we notice a generated pair that is problematic, we'll remove at least one of the words from that pair so that it won't reoccur. We'll err on the side of trusting reports and removing potentially inappropriate words rather than defending the appropriate uses of a word.
 
 When adding words to the list, an abundance of common sense is required. If the word can be used as a slang term for an ethnicity or nationality, there's probably a context where it'll pair up with a verb or adjective that can make it feel unwelcome... so be mindful and avoid those.
 
@@ -61,7 +61,7 @@ It's OK for a word to be duplicated between the objects and predicates lists so 
 
 Within a given file, the words should be alphabetized, distinct, and contain only lower-case alphabetic ASCII characters.  These constraints are checked at build time.
 
-Made by [Glitch](https://glitch.com/)
+Inspired by :heart:  [Glitch](https://glitch.com/)
 -------------------
 
 \ ゜o゜)ノ
