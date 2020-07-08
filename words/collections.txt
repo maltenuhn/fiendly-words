@@ -7,3 +7,11 @@ boredom
 ennui
 tedium
 suffering
+plot
+conspiracy
+secret
+evil
+lair
+shark
+laser
+volcano
