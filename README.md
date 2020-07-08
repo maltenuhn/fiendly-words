@@ -7,7 +7,7 @@ Usage
 ---
 
 ```
-const friendlyWords = require('fiendly-words');
+const fiendlyWords = require('fiendly-words');
 
 fiendlyWords.predicates;
 > ["warp","windy","paper","shrouded","iridescent","sage",...
