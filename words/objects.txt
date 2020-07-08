@@ -15,3 +15,12 @@ lair
 shark
 laser
 volcano
+toad
+eye-of-newt
+potion
+slug
+extraterrestrial
+law-abiding-citizen
+bystander
+invader
+marauder
