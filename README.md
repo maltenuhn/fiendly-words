@@ -1,7 +1,7 @@
 Fiendly Words
 =================
 
-This package returns the curated lists of Glitch words, as used in project names and elsewhere.
+This package returns the evil counterparts to the curated lists of Glitch words, as used in their project names and elsewhere. It's a parody, and not affiliated with Glitch :)
 
 Usage
 ---
@@ -26,13 +26,13 @@ fiendlyWords.collections;
 The Words
 ---------
 
-The words are pulled from curated files. We want the words and their pairings to be fiendish, evil, depressing, random, forgettable, etc.  They should also be words that most people can't easily remember and spell.
+The words are pulled from curated files. We want the words and their pairings to be fiendish, evil, humorous, absurd, forgettable, etc.  They should also be words that most people can't easily remember and spell.
 
-All of the words and their generated pairings should be safe for entertainment. We still don't permit word pairings that invoke to hate speech, hostility, derogatory terms, etc. We like our evil with a dose of humanity
+All of the words and their generated pairings should be safe for entertainment. We still don't permit word pairings that invoke to hate speech, hostility, derogatory terms, etc. We like our evil with a healthy dose of humour and humanity.
 
 Despite our best efforts, it's easy for a pair of fiendish words to be combined into something inappropriate. Whenever we notice a generated pair that is problematic, we'll remove at least one of the words from that pair so that it won't reoccur. We'll err on the side of trusting reports and removing potentially inappropriate words rather than defending the appropriate uses of a word.
 
-When adding words to the list, an abundance of common sense is required. If the word can be used as a slang term for an ethnicity or nationality, there's probably a context where it'll pair up with a verb or adjective that can make it feel unwelcome... so be mindful and avoid those.
+When adding words to the list, an abundance of empathy is required. If it could be offensive or disparaging, don't submit it. 
 
 The Word Files
 --------------
