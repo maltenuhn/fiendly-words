@@ -38,3 +38,7 @@ paranoid
 compulsive
 ghoulish
 undead
+default
+primitive
+basic
+low budget
