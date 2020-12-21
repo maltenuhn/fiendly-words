@@ -1,7 +1,7 @@
 Fiendly Words
 =================
 
-This package returns the evil counterparts to the curated lists of Glitch words, as used in their project names and elsewhere. It's a parody, and not affiliated with Glitch :)
+You can use this product to generate default names for projects, groups, objects eg. Think `sinister-brainslug`, `slothful-coven`, `depraved-busywork`, or even `default-default`.  It's inspired by, and forked from, the original _friendly_ words lists by Glitch. Obviously, and in the spirit of this project, I obliterated them all. Too friendly, nice, feelgood, easy-listening for my rubbish lair.
 
 Usage
 ---
@@ -32,7 +32,7 @@ All of the words and their generated pairings should be safe for entertainment. 
 
 Despite our best efforts, it's easy for a pair of fiendish words to be combined into something inappropriate. Whenever we notice a generated pair that is problematic, we'll remove at least one of the words from that pair so that it won't reoccur. We'll err on the side of trusting reports and removing potentially inappropriate words rather than defending the appropriate uses of a word.
 
-When adding words to the list, an abundance of empathy is required. If it could be offensive or disparaging, don't submit it. 
+When adding words to the list, an abundance of empathy is required. If it could be offensive or disparaging, nope.
 
 The Word Files
 --------------
@@ -61,7 +61,3 @@ It's OK for a word to be duplicated between the objects and predicates lists so 
 
 Within a given file, the words should be alphabetized, distinct, and contain only lower-case alphabetic ASCII characters.  These constraints are checked at build time.
 
-Inspired by :heart:  [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
