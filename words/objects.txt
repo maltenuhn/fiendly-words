@@ -16,11 +16,20 @@ shark
 laser
 volcano
 toad
+brainslug
 eye-of-newt
 potion
 slug
 extraterrestrial
-law-abiding-citizen
 bystander
 invader
 marauder
+default
+sun god
+amun-ra
+zeus
+pyramid
+coven
+cave
+grave
+tomb
